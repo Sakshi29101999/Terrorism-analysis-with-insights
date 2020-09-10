@@ -12,3 +12,10 @@ Use of app for predictive analysis tool in which we should be able to find the t
 Code consist of API's, UI's , map and graph functionings.
 
 <h2>References</h2>
+https://plotly.com/dash/
+https://stackoverflow.com/
+https://www.youtube.com/watch?v=Ma8tS4p27JI&list=PLH6mU1kedUy8fCzkTTJlwsf2EnV_UvOV-&index=1
+https://www.youtube.com/watch?v=eusglTlW4OA&t=1002s
+
+
+
