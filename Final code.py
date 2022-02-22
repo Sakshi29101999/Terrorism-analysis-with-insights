@@ -135,6 +135,8 @@ def open_browser():
 # Layout of your page
 def create_app_ui():
   # Create the UI of the Webpage here
+  #the layout is composed of a tree of "commponents" such as html.Div and dcc.tabs , dcc.dropdowns, etc.
+  #The purpose of the children property is to allow users to nest components, just as we do in raw HTML. Without the children prop, it would not be possible to do things like group related items together by containing them in the same parent element (ex. putting navigation items inside a top navigation bar).
   main_layout = html.Div([
     html.Div([
         html.H1('Terrorism Analysis with Insights', id='Main_title',style={'text-align': 'center','color':'Black','text-shadow': '2px 2px 5px green'},className='banner h1')]),
